@@ -1,0 +1,7 @@
+"subs"	"nuc"	"cat"
+"S05ak"	"Nuf03"	"Fab03"
+"S05ak"	"Nuf03"	"Fab03"
+"S05ak"	"Nuf03"	"Fab03"
+"S05ak"	"Nuf03"	"Fab03"
+"S05ak"	"Nuf03"	"Fab03"
+"S05ak"	"Nuf03"	"Fab03"
