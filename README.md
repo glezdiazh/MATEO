@@ -6,11 +6,11 @@ Cristian R. Munteanu,2, 3, 4  Carlos Fernández-Lozano,3,4 Nuria Sotomayor,1,*
 Esther Lete,1,*and Humberto González-Díaz,1,2,5,*
 *Correspondence:
 Humberto González-Díaz 
-humberto.gonzalezdiaz@ehu
+humberto.gonzalezdiaz@ehu.eus 
 Nuria Sotomayor
-nuria.sotomayor@ehu.es 
+nuria.sotomayor@ehu.eus 
 Esther Lete
-esther.lete@ehu.es 
+esther.lete@ehu.eus 
 1 Department of Organic and Inorganic Chemistry, Faculty of Science and Technology, University of The Basque Country (UPV/EHU), P.O. Box 644, 48080, Bilbao, Spain. 
 2 IKERDATA S.L., ZITEK, University of Basque Country UPVEHU, Rectorate Building, 48940 Leioa, Spain. 
 3 Computer Science Faculty, University of A Coruña (UDC), 15071, A Coruña, Spain.
