@@ -2,7 +2,7 @@
 MATEO: InterMolecular Amidoalkylation Theoretical Enantioselectivity Optimization Web Server
 
 Paula Carracedo-Reboredo,1,2 Eider Aranzamendi,1 Shan He,1,2 Sonia Arrasate,1 
-Cristian R. Munteanu,2, 3, 4  Carlos Fernández-Lozano,3,4 Nuria Sotomayor,1,*
+Cristian R. Munteanu,3,4  Carlos Fernández-Lozano,3,4 Nuria Sotomayor,1,*
 Esther Lete,1,*and Humberto González-Díaz,1,2,5,*
 *Correspondence:
 Humberto González-Díaz 
