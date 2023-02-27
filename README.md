@@ -16,8 +16,7 @@ Paula Carracedo-Reboredo,<sup>1,2</sup> Eider Aranzamendi,<sup>1</sup> Shan He,<
  
 <sup>4</sup> IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain.
 
-
-## Abstract
+## Abstract
 
 Chiral Phosphoric Acid (CPA) catalysts are widely recognized and versatile tools in catalysis and organic synthesis useful for the synthesis of chiral products. MATEO: InterMolecular Amidoalkylation Theoretical Enantioselectivity Optimization is an online Cheminformatics tool intended to help in the design of new CPAs, available online at: https://cptmltool.rnasa-imedir.com/CPTMLTools-Web/mateo. 
 
@@ -26,7 +25,10 @@ Chiral Phosphoric Acid (CPA) catalysts are widely recognized and versatile tools
 
 SA, CRM, CFL, NS, EL, and HGD conceived the presented idea. PCR and CRM implemented the idea computationally, performed the computations and analysis. EA performed the organic synthesis experiments. SH carried out the data analysis and software validation. SA, CRM, CFL, NS, EL, and HGD supervised the findings of this work. All authors discussed the results and wrote the manuscript with input of all authors. All authors read and approved the final manuscript.
 
-
-## Funding 
+## Funding 
 
 Ministerio de Ciencia e Innovación (PID2019-104148GB-I00), Basque Goverment / Eusko Jaurlaritza (IT1558-22). CITIC is funded by the Xunta de Galicia through the collaboration agreement between the Department of Culture, Education, Vocational Training and Universities and the Galician universities to strengthen the research centers of the Galician University System (CIGUS).
+
+# Citation
+
+The manuscript is under consideration. As soon as the manuscript is accepted, we'll include citation information in this repository.
