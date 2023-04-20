@@ -10,7 +10,7 @@ Paula Carracedo-Reboredo,<sup>1,2</sup> Eider Aranzamendi,<sup>1</sup> Shan He,<
  
 <sup>1</sup> Department of Organic and Inorganic Chemistry, Faculty of Science and Technology, University of The Basque Country (UPV/EHU), P.O. Box 644, 48080, Bilbao, Spain. 
 
-<sup>2</sup> IKERDATA S.L., ZITEK, University of Basque Country UPVEHU, Rectorate Building, 48940 Leioa, Spain. 
+<sup>2</sup> IKERDATA S.L., ZITEK, University of the Basque Country UPVEHU, Rectorate Building, 48940 Leioa, Spain. 
 
 <sup>3</sup> Department of Computer Science and Information Technologies, Faculty of Computer Science, CITIC-Research Center of Information and Communication Technologies, University of A Coruña, Campus Elviña s/n, 15071, A Coruña, Spain
  
